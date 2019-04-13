@@ -1,0 +1,69 @@
+*{
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+button {
+	color: white;
+	background-color: black;
+	background-image: none;
+	border-color: white;
+}
+
+.h1, h1{
+	font-size: 5rem;
+}
+
+h3{
+	font-size:1.5rem;
+	font-weight: bold;
+	line-height: 1.2;
+	text-align: center;	
+}
+
+h4{
+	font-weight: bold;
+	text-align: center;
+	padding-top:15px;
+}
+
+.navbar{
+	background-color: black;
+}
+
+.navbar-toggler-icon{
+	background-color: #e2cdcc;
+}
+
+.container{
+	padding-top:15px;
+}
+#tittle-skill{
+	font-weight: bold;
+}
+
+.bg-info{
+	background-color: black;
+}
+
+a:link, a:visited {
+	padding-top: 15px;
+	background-color: black;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+  }
+
+a:hover, a:active {
+	background-color: #e2cdcc;
+	text-decoration: none;
+}	
+
+.bannersecundario{
+	padding-top: 50px;
+}
+
+.form-control{
+	width:60%
+}
